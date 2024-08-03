@@ -1,24 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jun 11 00:44:33 2023
-
-@author: fluent
-"""
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 20 00:23:26 2022
 
-@author: fluent
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 19 21:32:52 2022
-
-@author: ZHOU
 """
 
 
